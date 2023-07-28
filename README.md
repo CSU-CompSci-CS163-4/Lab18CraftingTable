@@ -3,7 +3,6 @@
 This lab will focus on 2D Arrays, which is just arrays contained within arrays. These arrays become significantly more complex as we continue to nest them, which we can do, such as making an array that contains arrays which contain arays and so on. In order to get a bit of practice working with these kinds of nested arrays, you will be completing a crafting table simulator.
 
 For ease of access, here is the [javadoc](https://csu-compsci-cs163-4.github.io/Lab18CraftingTable/).
-**UPDATE THIS LINK ONCE IT'S PROPERLY ADDED TO GITHUB**
 
 ## Pre-Step:
 To start this lab, we recommend you compile and run the program to get a feel for how it works for when you have to test. This text-based simulator is meant to simulate a crafting table similar to the one in Minecraft, where users must place specific ingredients onto specific squares in order to craft a recipe.
